@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ჩემი პირველი ვებგვერდი</title>
+</head>
+<body>
+    <h1>გამარჯობა, ეს ჩემი პირველი ვებგვერდია!</h1>
+    <p>ვებგვერდი შექმნილია GitHub Pages-ის გამოყენებით.</p>
+</body>
+</html>
